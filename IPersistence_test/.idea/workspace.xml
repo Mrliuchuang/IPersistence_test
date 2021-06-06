@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="00cf0967-ea5a-4483-99ae-6cbbe67a8224" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="IPersistence_test" />
+  </component>
+  <component name="JavaAutoRunManager">
+    <enabled-run-configurations>
+      <run-configuration type="JUnit" name="IPersistenceTest.test" />
+    </enabled-run-configurations>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="userSettingsFile" value="F:\apache-maven-3.6.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1tQoVQMQ37BzOlq5d4erE43P0xP" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../IPersistence/src/main/java" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\IDEA_Projects\LaGou\IPersistence\src\main\java" />
+      <recent name="F:\IDEA_Projects\LaGou\IPersistence_test\src\main\resources" />
+      <recent name="F:\IDEA_Projects\LaGou\IPersistence_test\src\main\java" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="IPersistenceTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="IPersistence_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lagou.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lagou.test" />
+      <option name="MAIN_CLASS_NAME" value="com.lagou.test.IPersistenceTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.IPersistenceTest.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="00cf0967-ea5a-4483-99ae-6cbbe67a8224" name="Default Changelist" comment="" />
+      <created>1622710697329</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1622710697329</updated>
+      <workItem from="1622710702555" duration="4470000" />
+      <workItem from="1622771888196" duration="9026000" />
+      <workItem from="1622954241504" duration="7696000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="617" y="218" key="#Auto_Import" timestamp="1622954746938">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="617" y="218" key="#Auto_Import/0.0.2048.1112@0.0.2048.1112" timestamp="1622954746938" />
+    <state x="414" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1622711281063">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1622711281063" />
+    <state x="876" y="448" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1622817733949">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="876" y="448" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.2048.1112@0.0.2048.1112" timestamp="1622817733949" />
+    <state x="928" y="491" key="#debugger.expression.dialog" timestamp="1622955594366">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="928" y="491" key="#debugger.expression.dialog/0.0.2048.1112@0.0.2048.1112" timestamp="1622955594366" />
+    <state x="934" y="309" key="#xdebugger.XInspectDialog" timestamp="1622954559434">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="934" y="309" key="#xdebugger.XInspectDialog/0.0.2048.1112@0.0.2048.1112" timestamp="1622954559434" />
+    <state x="1246" y="300" key="#xdebugger.evaluate" timestamp="1622956195362">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="1246" y="300" key="#xdebugger.evaluate/0.0.2048.1112@0.0.2048.1112" timestamp="1622956195362" />
+    <state width="474" height="466" key="DebuggerActiveHint" timestamp="1622774338383">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="474" height="466" key="DebuggerActiveHint/0.0.1920.1040@0.0.1920.1040" timestamp="1622774338383" />
+    <state x="93" y="93" width="1862" height="926" key="DiffContextDialog" timestamp="1622954603854">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="93" y="93" width="1862" height="926" key="DiffContextDialog/0.0.2048.1112@0.0.2048.1112" timestamp="1622954603854" />
+    <state x="739" y="277" key="FileChooserDialogImpl" timestamp="1622710734532">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="739" y="277" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1622710734532" />
+    <state width="2005" height="305" key="GridCell.Tab.0.bottom" timestamp="1622983242148">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1877" height="338" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1622800509444" />
+    <state width="2005" height="305" key="GridCell.Tab.0.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1622983242148" />
+    <state width="2005" height="305" key="GridCell.Tab.0.center" timestamp="1622983242148">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1877" height="338" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1622800509444" />
+    <state width="2005" height="305" key="GridCell.Tab.0.center/0.0.2048.1112@0.0.2048.1112" timestamp="1622983242148" />
+    <state width="2005" height="305" key="GridCell.Tab.0.left" timestamp="1622983242148">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1877" height="338" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1622800509444" />
+    <state width="2005" height="305" key="GridCell.Tab.0.left/0.0.2048.1112@0.0.2048.1112" timestamp="1622983242148" />
+    <state width="2005" height="305" key="GridCell.Tab.0.right" timestamp="1622983242148">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1877" height="338" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1622800509444" />
+    <state width="2005" height="305" key="GridCell.Tab.0.right/0.0.2048.1112@0.0.2048.1112" timestamp="1622983242148" />
+    <state width="2005" height="376" key="GridCell.Tab.1.bottom" timestamp="1622983078964">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1877" height="355" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1622790866151" />
+    <state width="2005" height="376" key="GridCell.Tab.1.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1622983078964" />
+    <state width="2005" height="376" key="GridCell.Tab.1.center" timestamp="1622983078964">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1877" height="355" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1622790866151" />
+    <state width="2005" height="376" key="GridCell.Tab.1.center/0.0.2048.1112@0.0.2048.1112" timestamp="1622983078964" />
+    <state width="2005" height="376" key="GridCell.Tab.1.left" timestamp="1622983078964">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1877" height="355" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1622790866151" />
+    <state width="2005" height="376" key="GridCell.Tab.1.left/0.0.2048.1112@0.0.2048.1112" timestamp="1622983078964" />
+    <state width="2005" height="376" key="GridCell.Tab.1.right" timestamp="1622983078964">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1877" height="355" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1622790866151" />
+    <state width="2005" height="376" key="GridCell.Tab.1.right/0.0.2048.1112@0.0.2048.1112" timestamp="1622983078964" />
+    <state x="485" y="175" key="SettingsEditor" timestamp="1622955447741">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="455" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1622710737353" />
+    <state x="485" y="175" key="SettingsEditor/0.0.2048.1112@0.0.2048.1112" timestamp="1622955447741" />
+    <state x="686" y="371" key="com.intellij.ide.util.TipDialog" timestamp="1622954322578">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="643" y="347" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1622771921127" />
+    <state x="686" y="371" key="com.intellij.ide.util.TipDialog/0.0.2048.1112@0.0.2048.1112" timestamp="1622954322578" />
+    <state x="533" y="277" width="889" height="565" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1622963060677">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="500" y="259" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1040@0.0.1920.1040" timestamp="1622800526360" />
+    <state x="533" y="277" width="889" height="565" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.2048.1112@0.0.2048.1112" timestamp="1622963060677" />
+    <state x="334" y="223" key="new project wizard" timestamp="1622710959485">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="334" y="223" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1622710959485" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1622789529183">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1622789529183" />
+  </component>
+</project>
